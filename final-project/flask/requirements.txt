@@ -14,7 +14,7 @@ vaderSentiment==2.5
 empath==0.89
 requests==2.18.4
 idna==2.6
-urllib3==1.22
+urllib3==1.26.5
 certifi==2018.1.18
 gensim==3.2.0
 smart-open==1.5.5
